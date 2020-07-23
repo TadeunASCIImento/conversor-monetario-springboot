@@ -14,22 +14,6 @@
 	margin: 15px 0px 0px 10px;
 }
 
-#validabrl, #validausd {
-	width: 400px;
-	font-size: 1.5em;
-	color: red;
-	margin: 0px 0px 0px 280px;
-	font-size: 1.5em;
-}
-
-#validausd {
-	margin: 0px 0px 0px 710px;
-}
-
-#validaeur {
-	margin: 0px 0px 0px 100px;
-}
-
 .cabecalho {
 	width: 100%;
 	height: 40px;
@@ -54,6 +38,7 @@
 	font-size: 3.0em;
 	width: 300px;
 	margin: 10px 0px 10px 0px;
+	text-align: center;
 }
 
 .icone-brasil, .icone-eua, .icone-euro {

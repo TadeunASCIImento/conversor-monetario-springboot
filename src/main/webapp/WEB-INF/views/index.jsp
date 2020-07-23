@@ -76,9 +76,6 @@
 				id="label-moeda">EUR</label> <input type="text" class="form-control"
 				oninput="converteurtousdtobrl(${comercial.moeda.bid},${euro.moeda.bid});" id="input-eur">
 		</form>
-		<p id="validabrl"></p>
-		<p id="validausd"></p>
-		<p id="validaeur"></p>
 		<footer class="footer">
 			<a href="https://linkedin.com/in/tadeu-do-nascimento">
 				<img src="css/imagens/icone_linkedin.png" class="icone-linkedin" />
