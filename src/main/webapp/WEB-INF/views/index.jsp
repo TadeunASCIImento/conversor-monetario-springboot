@@ -12,7 +12,9 @@
 <body>
 	<div class="container-fluid">
 		<header class="cabecalho">
-			<h1>COTAÇÕES</h1>
+			<h1>
+				<b>COTAÇÕES</b>
+			</h1>
 		</header>
 		<table class="table table-dark">
 			<thead>
@@ -66,19 +68,20 @@
 		<form class="form-inline">
 			<img src="css/imagens/icone-brasil.png" class="icone-brasil" /> <label
 				id="label-moeda">BRL</label> <input type="text" class="form-control"
-				oninput=" convertbrltousdtoeur(${comercial.moeda.bid},${euro.moeda.bid});" id="input-brl"><img
-				src="css/imagens/icone-eua.png" class="icone-eua" /> <label
-				id="label-moeda">USD</label> <input type="text" class="form-control"
-				oninput="convertusdtoeurtobrl(${comercial.moeda.bid},${euro.moeda.bid});" id="input-usd">
-				
-				<img
-				src="css/imagens/icone-euro.png" class="icone-euro" /> <label
-				id="label-moeda">EUR</label> <input type="text" class="form-control"
-				oninput="converteurtousdtobrl(${comercial.moeda.bid},${euro.moeda.bid});" id="input-eur">
+				oninput=" convertbrltousdtoeur(${comercial.moeda.bid},${euro.moeda.bid});"
+				id="input-brl"><img src="css/imagens/icone-eua.png"
+				class="icone-eua" /> <label id="label-moeda">USD</label> <input
+				type="text" class="form-control"
+				oninput="convertusdtoeurtobrl(${comercial.moeda.bid},${euro.moeda.bid});"
+				id="input-usd"> <img src="css/imagens/icone-euro.png"
+				class="icone-euro" /> <label id="label-moeda">EUR</label> <input
+				type="text" class="form-control"
+				oninput="converteurtousdtobrl(${comercial.moeda.bid},${euro.moeda.bid});"
+				id="input-eur">
 		</form>
 		<footer class="footer">
-			<a href="https://linkedin.com/in/tadeu-do-nascimento">
-				<img src="css/imagens/icone_linkedin.png" class="icone-linkedin" />
+			<a href="https://linkedin.com/in/tadeu-do-nascimento"> <img
+				src="css/imagens/icone_linkedin.png" class="icone-linkedin" />
 			</a> <a href="https://github.com/TadeunASCIImento"> <img
 				src="css/imagens/icone_github.png" class="icone-github" />
 			</a> <a href="mailto:tadeunascimentosp@gmail.com"> <img
