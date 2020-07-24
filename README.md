@@ -7,7 +7,8 @@ Para a execução do projeto, é necessário os seguintes ferramentas:
 JDK-8+ https://www.oracle.com/br/java/technologies/javase/javase-jdk8-downloads.html Para execução do projeto.
 
 Eclipse IDE
-https://www.eclipse.org/downloads/ para desenvolvimento.
+https://www.eclipse.org/downloads/ e Spring Tools 4 
+https://spring.io/tools para desenvolvimento.
 
 Maven 3.6.3
 https://maven.apache.org/download.cgi Para o build.
