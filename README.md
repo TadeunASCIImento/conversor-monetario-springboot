@@ -4,10 +4,12 @@ Este projeto de Aplicação web Java desenvolvido com Spring-Boot, exibe a cota�
  ## Executando o Projeto.
 Para a execução do projeto, é necessário os seguintes ferramentas:
 
-https://www.oracle.com/br/java/technologies/javase/javase-jdk8-downloads.html Para execução do projeto.
+JDK-8+ https://www.oracle.com/br/java/technologies/javase/javase-jdk8-downloads.html Para execução do projeto.
 
-https://www.eclipse.org/downloads/ IDE para desenvolvimento.
+Eclipse IDE
+https://www.eclipse.org/downloads/ para desenvolvimento.
 
+Maven 3.6.3
 https://maven.apache.org/download.cgi Para o build.
 
 #### Esta Aplicação pode ser observada em produção em:
