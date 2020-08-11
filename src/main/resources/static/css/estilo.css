@@ -32,12 +32,9 @@
 	height: 32px;
 }
 
-.icone-linkedin, .icone-bitbucket {
-	border-radius: 5px;
-}
 
 .footer {
-	margin: 200px 0px 0px 0px;
+	margin: 50px 0px 0px 0px;
 	text-align: center;
 }
 
