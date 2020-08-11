@@ -1,7 +1,7 @@
 # Conversor de moedas Web
 Este é um projeto de Aplicação web Java desenvolvido com Spring-Boot.
 Exibe a cotação em tempo real das moedas,
-Dólar e Euro, consumindo uma API externa,  https://economia.awesomeapi.com.br/xml e efetua a conversão dos valores entre elas.
+Dólar e Euro, consumindo uma API externa, https://docs.awesomeapi.com.br/api-de-moedas e efetua a conversão dos valores entre elas.
 
 ## Executando o Projeto.
 Para a execução do projeto,
