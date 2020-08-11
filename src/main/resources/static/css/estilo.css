@@ -20,16 +20,25 @@
 	margin: 0px 0px 30px 0px;
 }
 
-.icone-github, .icone-linkedin {
-	margin-left: 5px;
-	width: 40px;
-	height: 40px;
-	border-radius: 10px;
+.icone-email, .icone-github, .icone-linkedin, .icone-bitbucket {
+	margin: 20px 0px 0px 10px;
+	width: 30px;
+	height: 30px;
 }
 
 .icone-email {
-	width: 45px;
-	height: 45px;
+	margin: 20px 0px 0px 10px;
+	width: 32px;
+	height: 32px;
+}
+
+.icone-linkedin, .icone-bitbucket {
+	border-radius: 5px;
+}
+
+.footer {
+	margin: 200px 0px 0px 0px;
+	text-align: center;
 }
 
 #input-brl, #input-usd, #input-eur {
@@ -50,11 +59,6 @@
 #label-moeda {
 	font-size: 1.1em;
 	margin: 0px 10px 0px 0px;
-}
-
-.footer {
-	text-align: center;
-	margin-top: 60px;
 }
 
 h1 {

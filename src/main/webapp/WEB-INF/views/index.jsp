@@ -8,7 +8,8 @@
 <link rel="stylesheet"
 	href="https://stackpath.bootstrapcdn.com/bootstrap/4.5.0/css/bootstrap.min.css" />
 <link rel="stylesheet" href="css/estilo.css">
-<script data-ad-client="ca-pub-8354484195480755" async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+<script data-ad-client="ca-pub-8354484195480755" async
+	src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
 </head>
 <body>
 	<div class="container-fluid">
@@ -67,30 +68,31 @@
 		</table>
 		<h3>CONVERSOR DE MOEDA</h3>
 		<form class="form-inline">
-			<img src="css/imagens/icone-brasil.png" class="icone-brasil" /> <label
+			<img src="/imagens/icone-brasil.png" class="icone-brasil" /> <label
 				id="label-moeda">BRL</label> <input type="text" class="form-control"
 				oninput=" convertbrltousdtoeur(${comercial.moeda.bid},${euro.moeda.bid});"
-				id="input-brl"><img src="css/imagens/icone-eua.png"
+				id="input-brl"><img src="/imagens/icone-eua.png"
 				class="icone-eua" /> <label id="label-moeda">USD</label> <input
 				type="text" class="form-control"
 				oninput="convertusdtoeurtobrl(${comercial.moeda.bid},${euro.moeda.bid});"
-				id="input-usd"> <img src="css/imagens/icone-euro.png"
+				id="input-usd"> <img src="/imagens/icone-euro.png"
 				class="icone-euro" /> <label id="label-moeda">EUR</label> <input
 				type="text" class="form-control"
 				oninput="converteurtousdtobrl(${comercial.moeda.bid},${euro.moeda.bid});"
 				id="input-eur">
 		</form>
 		<footer class="footer">
-			<a href="https://linkedin.com/in/tadeu-do-nascimento"> <img
-				src="css/imagens/icone_linkedin.png" class="icone-linkedin" />
-			</a> <a href="https://github.com/TadeunASCIImento"> <img
-				src="css/imagens/icone_github.png" class="icone-github" />
+			<a href="https://github.com/TadeunASCIImento"> <img
+				src="/imagens/icone_github.png" class="icone-github" />
+			</a> <a href="https://bitbucket.org/TadeunASCIImento"> <img
+				src="/imagens/icone-bitbucket.png" class="icone-bitbucket" />
 			</a> <a href="mailto:tadeunascimentosp@gmail.com"> <img
-				src="css/imagens/icone_email.png" class="icone-email" />
+				src="/imagens/icone_email.png" class="icone-email" />
+			</a> <a href="https://linkedin.com/in/tadeu-do-nascimento"> <img
+				src="/imagens/icone_linkedin.png" class="icone-linkedin" />
 			</a>
-			<p class="parag-foot">
-				<b> Desenvolvido por Tadeu do Nascimento &copy; 2020 </b>
-			</p>
+			<p class="parag-foot">Desenvolvido por Tadeu do Nascimento &copy;
+				2020</p>
 		</footer>
 	</div>
 	<script type="text/javascript" src="/javascript/script.js"></script>
