@@ -7,9 +7,9 @@
 <title>Cotação e conversão de moeda</title>
 <link rel="stylesheet"
 	href="https://stackpath.bootstrapcdn.com/bootstrap/4.5.0/css/bootstrap.min.css" />
-<link rel="stylesheet" href="css/estilo.css">
 <script data-ad-client="ca-pub-8354484195480755" async
 	src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+<link rel="stylesheet" href="css/estilo.css">
 </head>
 <body>
 	<div class="container-fluid">
