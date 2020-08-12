@@ -79,7 +79,7 @@ h3 {
 .div-conteudo {
 	padding:50px;
 	background-color: #1b1d1e;
-	margin: 350px 0px 0px 0px;
+	margin: 300px 0px 0px 0px;
 }
 .h3-conteudo {
 	text-align:justify;
@@ -89,4 +89,5 @@ h3 {
 	text-align:justify;
 	font-size: 1.4em;
 	color: grey;
+	margin-top:35px;
 }
