@@ -33,7 +33,7 @@
 }
 
 .footer {
-	margin: 50px 0px 0px 0px;
+	margin: 60px 0px 0px 0px;
 	text-align: center;
 }
 
@@ -74,20 +74,4 @@ h3 {
 #data-cotacao {
 	color: lightgreen;
 	font-size: 1.2em;
-}
-
-.div-conteudo {
-	padding:50px;
-	background-color: #1b1d1e;
-	margin: 300px 0px 0px 0px;
-}
-.h3-conteudo {
-	text-align:justify;
-	color: grey;
-}
-.p-conteudo {
-	text-align:justify;
-	font-size: 1.4em;
-	color: grey;
-	margin-top:35px;
 }
