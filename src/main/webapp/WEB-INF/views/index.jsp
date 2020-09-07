@@ -7,8 +7,6 @@
 <title>Cotação e conversão de moeda</title>
 <link rel="stylesheet"
 	href="https://stackpath.bootstrapcdn.com/bootstrap/4.5.0/css/bootstrap.min.css" />
-<script data-ad-client="ca-pub-8354484195480755" async
-	src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
 <link rel="stylesheet" href="css/estilo.css">
 </head>
 <body>
@@ -81,19 +79,21 @@
 				oninput="converteurtousdtobrl(${comercial.moeda.bid},${euro.moeda.bid});"
 				id="input-eur">
 		</form>
-		<footer class="footer">
-			<a href="https://github.com/TadeunASCIImento"> <img
-				src="/imagens/icone_github.png" class="icone-github" />
-			</a> <a href="https://bitbucket.org/TadeunASCIImento"> <img
-				src="/imagens/icone-bitbucket.png" class="icone-bitbucket" />
-			</a> <a href="mailto:tadeunascimentosp@gmail.com"> <img
-				src="/imagens/icone_email.png" class="icone-email" />
-			</a> <a href="https://linkedin.com/in/tadeu-do-nascimento"> <img
-				src="/imagens/icone_linkedin.png" class="icone-linkedin" />
-			</a>
-			<p class="parag-foot">Desenvolvido por Tadeu do Nascimento &copy;
-				2020</p>
-		</footer>
+		<div class="jumbotron">
+			<footer class="footer">
+				<a href="https://github.com/TadeunASCIImento"> <img
+					src="/imagens/icone_github.png" class="icone-github" />
+				</a> <a href="https://bitbucket.org/TadeunASCIImento"> <img
+					src="/imagens/icone-bitbucket.png" class="icone-bitbucket" />
+				</a> <a href="mailto:tadeunascimentosp@gmail.com"> <img
+					src="/imagens/icone_email.png" class="icone-email" />
+				</a> <a href="https://linkedin.com/in/tadeu-do-nascimento"> <img
+					src="/imagens/icone_linkedin.png" class="icone-linkedin" />
+				</a>
+				<p class="parag-foot">Desenvolvido por Tadeu do Nascimento
+					&copy; 2020</p>
+			</footer>
+		</div>
 	</div>
 	<script type="text/javascript" src="/javascript/script.js"></script>
 </body>
