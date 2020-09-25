@@ -21,4 +21,4 @@ Para o Build.
 * **Maven 3.6.3**  https://maven.apache.org/download.cgi
 
 ## Aplicação pode ser observada em:
-* https://convesormonetario.herokuapp.com
+* https://cotacaoconversaomoedas.herokuapp.com/
